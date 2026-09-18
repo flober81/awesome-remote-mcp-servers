@@ -230,7 +230,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 ### 📝 <a name="content-management"></a>Content Management
 
 - [btlabs Core](https://btlabs.dev) `https://btlabs.dev/api/mcp`
-  🔑 - Read and write a site running on btlabs Core: pages, posts, media, menus, FAQs, glossary, team and redirects, plus its brand profile and AI-discovery settings. Scope is set per API key.
+  🔐 - Read and write a site running on btlabs Core: pages, posts, media, menus, FAQs, glossary, team and redirects, plus its brand profile and AI-discovery settings. Scope is set per API key.
 - [Contentful](https://contentful.com) `https://mcp.contentful.com/mcp`
   🔑 - Manage Contentful entries, assets, and content models.
 - [dochost](https://dochost.io/mcp) `https://dochost.io/api/mcp`
